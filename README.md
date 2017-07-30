@@ -1,4 +1,4 @@
-# datasic
+# jupyter
 ## 简介
 jupyter 运行环境
 ## 本镜像包含
